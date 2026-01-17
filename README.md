@@ -96,11 +96,13 @@ _Co-Founder & Frontend Engineer_
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" height="40" alt="Dev.to" />
   </a>
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/medium/black">
-    <img src="https://cdn.simpleicons.org/medium/black" width="40" height="40" alt="Medium" />
-  </picture>
+  <a href="https://medium.com/@akashtdev" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/medium/black">
+      <img src="https://cdn.simpleicons.org/medium/black" width="40" height="40" alt="Medium" />
+    </picture>
+  </a>
   &nbsp;&nbsp;
   <a href="https://dribbble.com/akashtdev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="40" height="40" alt="Dribbble" />
